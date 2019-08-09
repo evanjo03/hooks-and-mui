@@ -1,9 +1,18 @@
-.App {
-  text-align: center;
+.textField {
+  width: 100%;
 }
 
-#root {
-  margin: auto;
+html { 
+  background: url('images/bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
 }
 
 .App-logo {
